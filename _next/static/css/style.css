@@ -1,0 +1,26 @@
+.text-indigo-400,
+.text-indigo-500 {
+  color: #c522b8;
+}
+
+.text-indigo-400:hover,
+.hover\:text-indigo-400,
+.hover\:text-indigo-400:hover {
+  color: #b222c5 !important;
+}
+
+.bg-indigo-500,
+.bg-indigo-600,
+.wallet-adapter-button-trigger {
+  background-color: #b822c5 !important;
+}
+
+.bg-indigo-500:hover,
+.bg-indigo-600:hover,
+.wallet-adapter-button-trigger:hover {
+  background-color: #ad24b4 !important;
+}
+
+.from-indigo-900\/50 {
+  --tw-gradient-from: rgba(197, 34, 167, 0.4);
+}
