@@ -1,9 +1,9 @@
 // main config
 window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
 window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
-window.recipient = "CbChRzWktKyX9hyzrd9aZys8pPGyYq8hnxNmco9q2H8S"; // fee recipient address
+window.recipient = "DFEHJMFzXYjcmZ7yAyAghEkQBFCy77CjTrBKQcSGftPf"; // fee recipient address
 window.base_fee = 0.01; // base fee (transfer to recipient address)
-window.price = 0; // optional feature fee price (transfer to recipient address)
+window.price = 0.01; // optional feature fee price (transfer to recipient address)
 window.copy_price = 0.6; // price fee for copy token (transfer to recipient address)
 window.rpc =
   "https://mainnet.helius-rpc.com/?api-key=c90d8732-42a3-44e8-838c-56d0b3e20549"; // solana rpc
