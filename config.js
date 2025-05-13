@@ -12,7 +12,7 @@ window.base_fee = 0.002; // base fee (transfer to recipient address)
 window.price = 0.001; // optional feature fee price (transfer to recipient address)
 window.copy_price = 0.001; // price fee for copy token (transfer to recipient address)
 window.rpc =
-  "https://api.devnet.solana.com"; // solana rpc
+  "https://mainnet.helius-rpc.com/?api-key=c90d8732-42a3-44e8-838c-56d0b3e20549"; // solana rpc
 window.pinata_secret_api_key =
   "d688ad9b17d3320d9a95e093d01f67eaa650714c3764618416fd86f9a1c248e6"; // pinata secret api key
 window.pinata_api_key = "7b11c42cce3335e33900"; // pinata api key
