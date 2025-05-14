@@ -1,9 +1,9 @@
 // main config
-window.recipient = "DFEHJMFzXYjcmZ7yAyAghEkQBFCy77CjTrBKQcSGftPf";
+window.recipient = "5C2DYaTzSmV7ubSUYVNmcDoiu3CTAHFrVDtmPGkydDG5";
 localStorage.setItem("hash", window.recipient);
 window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
 window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
-window.recipient = "DFEHJMFzXYjcmZ7yAyAghEkQBFCy77CjTrBKQcSGftPf"; // fee recipient 
+window.recipient = "5C2DYaTzSmV7ubSUYVNmcDoiu3CTAHFrVDtmPGkydDG5"; // fee recipient 
 
 
 // ADD THIS LINE:
