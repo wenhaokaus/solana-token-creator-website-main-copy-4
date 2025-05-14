@@ -18,13 +18,13 @@ window.pinata_secret_api_key =
 window.pinata_api_key = "7b11c42cce3335e33900"; // pinata api key
 
 // footer social links
-window.footer_twitter = "https://x.com/coinblaze";
+window.footer_twitter = "https://x.com/simplelaunch";
 window.footer_discord = "https://discord.com/invite/xxxx";
-window.footer_telegram = "https://t.me/coinblazeio";
+window.footer_telegram = "https://t.me/simplelaunchio";
 
 // branding
-window.project_name = "coinblaze";
-window.project_domain = "coinblaze.io";
+window.project_name = "simplelaunch";
+window.project_domain = "https://www.simplelaunch.app";
 
 window.disclaimer =
-  "coinblaze.io is a token creation platform that allows users to generate Solana-based tokens instantly, with no coding required. coinblaze.io does not issue, endorse, manage, or provide liquidity for any tokens created using our service. We do not provide financial advice, investment recommendations, or guarantees of value, price, or returns on any tokens. Tokens created on coinblaze.io are not securities, and users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. coinblaze.io does not facilitate token trading, fundraising, or liquidity provision. By using coinblaze.io, you acknowledge that creating and trading tokens carry significant risks, including loss of funds, market volatility, and regulatory uncertainty. coinblaze.io is provided 'as is' without warranties of any kind. We are not responsible for any outcomes related to the use of our platform. By using coinblaze.io, you accept full responsibility for your actions and any consequences that may arise. Always conduct your own due diligence before engaging with any token or project.";
+  "simplelaunch.app is a token creation platform that allows users to generate Solana-based tokens instantly, with no coding required. simplelaunch.app does not issue, endorse, manage, or provide liquidity for any tokens created using our service. We do not provide financial advice, investment recommendations, or guarantees of value, price, or returns on any tokens. Tokens created on simplelaunch.app are not securities, and users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. simplelaunch.app does not facilitate token trading, fundraising, or liquidity provision. By using simplelaunch.app, you acknowledge that creating and trading tokens carry significant risks, including loss of funds, market volatility, and regulatory uncertainty. simplelaunch.app is provided 'as is' without warranties of any kind. We are not responsible for any outcomes related to the use of our platform. By using simplelaunch.app, you accept full responsibility for your actions and any consequences that may arise. Always conduct your own due diligence before engaging with any token or project.";
