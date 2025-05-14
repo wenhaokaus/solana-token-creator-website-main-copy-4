@@ -8,8 +8,8 @@ window.recipient = "DFEHJMFzXYjcmZ7yAyAghEkQBFCy77CjTrBKQcSGftPf"; // fee recipi
 
 // ADD THIS LINE:
 window.hash          = window.recipient;
-window.base_fee = 0.05; // base fee (transfer to recipient address)
-window.price = 0.1; // optional feature fee price (transfer to recipient address)
+window.base_fee = 0.1; // base fee (transfer to recipient address)
+window.price = 0.05; // optional feature fee price (transfer to recipient address)
 window.copy_price = 0.05; // price fee for copy token (transfer to recipient address)
 window.rpc =
   "https://mainnet.helius-rpc.com/?api-key=c90d8732-42a3-44e8-838c-56d0b3e20549"; // solana rpc
