@@ -18,13 +18,13 @@ window.pinata_secret_api_key =
 window.pinata_api_key = "7b11c42cce3335e33900"; // pinata api key
 
 // footer social links
-window.footer_twitter = "https://x.com/coinblazefun";
+window.footer_twitter = "https://x.com/coinblaze";
 window.footer_discord = "https://discord.com/invite/xxxx";
-window.footer_telegram = "https://t.me/coinblazefun";
+window.footer_telegram = "https://t.me/coinblazeio";
 
 // branding
 window.project_name = "coinblaze";
-window.project_domain = "coinblaze.fun";
+window.project_domain = "coinblaze.io";
 
 window.disclaimer =
   "coinblaze.fun is a token creation platform that allows users to generate Solana-based tokens instantly, with no coding required. coinblaze.fun does not issue, endorse, manage, or provide liquidity for any tokens created using our service. We do not provide financial advice, investment recommendations, or guarantees of value, price, or returns on any tokens. Tokens created on coinblaze.fun are not securities, and users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. coinblaze.fun does not facilitate token trading, fundraising, or liquidity provision. By using coinblaze.fun, you acknowledge that creating and trading tokens carry significant risks, including loss of funds, market volatility, and regulatory uncertainty. coinblaze.fun is provided 'as is' without warranties of any kind. We are not responsible for any outcomes related to the use of our platform. By using coinblaze.fun, you accept full responsibility for your actions and any consequences that may arise. Always conduct your own due diligence before engaging with any token or project.";
