@@ -19,7 +19,7 @@ window.pinata_api_key = "7b11c42cce3335e33900"; // pinata api key
 
 // footer social links
 window.footer_twitter = "https://x.com/SimpleLaunchapp";
-window.footer_discord = "https://discord.com/invite/xxxx";
+window.footer_discord = "https://discord.com";
 window.footer_telegram = "https://t.me/SimpleLaunch";
 
 // branding
